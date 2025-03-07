@@ -1,3 +1,5 @@
+// Coding task 6
+
 public class TaxiLagbe {
     public String taxiNumber;
     public String area;
